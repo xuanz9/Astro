@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+local-data/
+*.log
+dist/
+.pnpm-store/
+__pycache__/
+*.py[cod]

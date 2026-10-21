@@ -1,0 +1,19 @@
+[
+  {
+    "id": "canon-600d", "name": "Canon EOS 600D / Rebel T3i",
+    "aliases": ["Canon EOS 600D", "Canon EOS REBEL T3i", "Canon EOS Kiss X5"],
+    "sensorWidthMm": 22.3, "sensorHeightMm": 14.9, "widthPixels": 5184, "heightPixels": 3456,
+    "source": "https://asia.canon/en/support/6200098100", "checkedOn": "2026-09-27"
+  },
+  {
+    "id": "canon-60d", "name": "Canon EOS 60D", "aliases": ["Canon EOS 60D"],
+    "sensorWidthMm": 22.3, "sensorHeightMm": 14.9, "widthPixels": 5184, "heightPixels": 3456,
+    "source": "https://in.canon/en/support/6200087300", "checkedOn": "2026-09-27"
+  },
+  {
+    "id": "canon-t6", "name": "Canon EOS Rebel T6 / 1300D",
+    "aliases": ["Canon EOS Rebel T6", "Canon EOS 1300D", "Canon EOS Kiss X80"],
+    "sensorWidthMm": 22.3, "sensorHeightMm": 14.9, "widthPixels": 5184, "heightPixels": 3456,
+    "source": "https://www.usa.canon.com/support/p/eos-rebel-t6", "checkedOn": "2026-09-27"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "models": 320,
+  "modelsWithSourcedFacts": 320,
+  "modelsWithBasicImagingSpecs": 172,
+  "sourcedFields": 2604,
+  "totalFields": 10880,
+  "unresolved": [],
+  "note": "Partial manufacturer research, not a complete measured-performance database. Unknown fields are not negative capability claims."
+}

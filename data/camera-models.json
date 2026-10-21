@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "canon-eos-5d",
+    "name": "Canon EOS 5D",
+    "model": "EOS 5D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-5d-mark-ii",
+    "name": "Canon EOS 5D Mark II",
+    "model": "EOS 5D Mark II",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-5d-mark-iii",
+    "name": "Canon EOS 5D Mark III",
+    "model": "EOS 5D Mark III",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-5d-mark-iv",
+    "name": "Canon EOS 5D Mark IV",
+    "model": "EOS 5D Mark IV",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-5ds",
+    "name": "Canon EOS 5DS",
+    "model": "EOS 5DS",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-5ds-r",
+    "name": "Canon EOS 5DS R",
+    "model": "EOS 5DS R",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-6d",
+    "name": "Canon EOS 6D",
+    "model": "EOS 6D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-6d-mark-ii",
+    "name": "Canon EOS 6D Mark II",
+    "model": "EOS 6D Mark II",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-7d",
+    "name": "Canon EOS 7D",
+    "model": "EOS 7D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-7d-mark-ii",
+    "name": "Canon EOS 7D Mark II",
+    "model": "EOS 7D Mark II",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-10d",
+    "name": "Canon EOS 10D",
+    "model": "EOS 10D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-20d",
+    "name": "Canon EOS 20D",
+    "model": "EOS 20D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-20da",
+    "name": "Canon EOS 20Da",
+    "model": "EOS 20Da",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-30d",
+    "name": "Canon EOS 30D",
+    "model": "EOS 30D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-40d",
+    "name": "Canon EOS 40D",
+    "model": "EOS 40D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-50d",
+    "name": "Canon EOS 50D",
+    "model": "EOS 50D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-60d",
+    "name": "Canon EOS 60D",
+    "model": "EOS 60D",
+    "brand": "Canon",
+    "source": "https://in.canon/en/support/6200087300"
+  },
+  {
+    "id": "canon-eos-60da",
+    "name": "Canon EOS 60Da",
+    "model": "EOS 60Da",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-70d",
+    "name": "Canon EOS 70D",
+    "model": "EOS 70D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-80d",
+    "name": "Canon EOS 80D",
+    "model": "EOS 80D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-90d",
+    "name": "Canon EOS 90D",
+    "model": "EOS 90D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-100d-rebel-sl1",
+    "name": "Canon EOS 100D / Rebel SL1",
+    "model": "EOS 100D / Rebel SL1",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-200d-rebel-sl2",
+    "name": "Canon EOS 200D / Rebel SL2",
+    "model": "EOS 200D / Rebel SL2",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-250d-rebel-sl3",
+    "name": "Canon EOS 250D / Rebel SL3",
+    "model": "EOS 250D / Rebel SL3",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-300d-digital-rebel",
+    "name": "Canon EOS 300D / Digital Rebel",
+    "model": "EOS 300D / Digital Rebel",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-350d-rebel-xt",
+    "name": "Canon EOS 350D / Rebel XT",
+    "model": "EOS 350D / Rebel XT",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-400d-rebel-xti",
+    "name": "Canon EOS 400D / Rebel XTi",
+    "model": "EOS 400D / Rebel XTi",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-450d-rebel-xsi",
+    "name": "Canon EOS 450D / Rebel XSi",
+    "model": "EOS 450D / Rebel XSi",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-500d-rebel-t1i",
+    "name": "Canon EOS 500D / Rebel T1i",
+    "model": "EOS 500D / Rebel T1i",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-550d-rebel-t2i",
+    "name": "Canon EOS 550D / Rebel T2i",
+    "model": "EOS 550D / Rebel T2i",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-600d",
+    "name": "Canon EOS 600D / Rebel T3i",
+    "model": "EOS 600D / Rebel T3i",
+    "brand": "Canon",
+    "source": "https://asia.canon/en/support/6200098100"
+  },
+  {
+    "id": "canon-eos-650d-rebel-t4i",
+    "name": "Canon EOS 650D / Rebel T4i",
+    "model": "EOS 650D / Rebel T4i",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-700d-rebel-t5i",
+    "name": "Canon EOS 700D / Rebel T5i",
+    "model": "EOS 700D / Rebel T5i",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-750d-rebel-t6i",
+    "name": "Canon EOS 750D / Rebel T6i",
+    "model": "EOS 750D / Rebel T6i",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-760d-rebel-t6s",
+    "name": "Canon EOS 760D / Rebel T6s",
+    "model": "EOS 760D / Rebel T6s",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-800d-rebel-t7i",
+    "name": "Canon EOS 800D / Rebel T7i",
+    "model": "EOS 800D / Rebel T7i",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-850d-rebel-t8i",
+    "name": "Canon EOS 850D / Rebel T8i",
+    "model": "EOS 850D / Rebel T8i",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-1000d-rebel-xs",
+    "name": "Canon EOS 1000D / Rebel XS",
+    "model": "EOS 1000D / Rebel XS",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-1100d-rebel-t3",
+    "name": "Canon EOS 1100D / Rebel T3",
+    "model": "EOS 1100D / Rebel T3",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-1200d-rebel-t5",
+    "name": "Canon EOS 1200D / Rebel T5",
+    "model": "EOS 1200D / Rebel T5",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-2000d-rebel-t7",
+    "name": "Canon EOS 2000D / Rebel T7",
+    "model": "EOS 2000D / Rebel T7",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-4000d",
+    "name": "Canon EOS 4000D",
+    "model": "EOS 4000D",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-m",
+    "name": "Canon EOS M",
+    "model": "EOS M",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-m3",
+    "name": "Canon EOS M3",
+    "model": "EOS M3",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-m5",
+    "name": "Canon EOS M5",
+    "model": "EOS M5",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-m6",
+    "name": "Canon EOS M6",
+    "model": "EOS M6",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-m6-mark-ii",
+    "name": "Canon EOS M6 Mark II",
+    "model": "EOS M6 Mark II",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-m50",
+    "name": "Canon EOS M50",
+    "model": "EOS M50",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-m50-mark-ii",
+    "name": "Canon EOS M50 Mark II",
+    "model": "EOS M50 Mark II",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-r",
+    "name": "Canon EOS R",
+    "model": "EOS R",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-r1",
+    "name": "Canon EOS R1",
+    "model": "EOS R1",
+    "brand": "Canon",
+    "source": "https://www.usa.canon.com/pro/cameras/eos-r-system"
+  },
+  {
+    "id": "canon-eos-r3",
+    "name": "Canon EOS R3",
+    "model": "EOS R3",
+    "brand": "Canon",
+    "source": "https://www.usa.canon.com/pro/cameras/eos-r-system"
+  },
+  {
+    "id": "canon-eos-r5",
+    "name": "Canon EOS R5",
+    "model": "EOS R5",
+    "brand": "Canon",
+    "source": "https://www.usa.canon.com/pro/cameras/eos-r-system"
+  },
+  {
+    "id": "canon-eos-r5-mark-ii",
+    "name": "Canon EOS R5 Mark II",
+    "model": "EOS R5 Mark II",
+    "brand": "Canon",
+    "source": "https://www.usa.canon.com/pro/cameras/eos-r-system"
+  },
+  {
+    "id": "canon-eos-r6",
+    "name": "Canon EOS R6",
+    "model": "EOS R6",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-r6-mark-ii",
+    "name": "Canon EOS R6 Mark II",
+    "model": "EOS R6 Mark II",
+    "brand": "Canon",
+    "source": "https://www.usa.canon.com/pro/cameras/eos-r-system"
+  },
+  {
+    "id": "canon-eos-r7",
+    "name": "Canon EOS R7",
+    "model": "EOS R7",
+    "brand": "Canon",
+    "source": "https://www.usa.canon.com/pro/cameras/eos-r-system"
+  },
+  {
+    "id": "canon-eos-r8",
+    "name": "Canon EOS R8",
+    "model": "EOS R8",
+    "brand": "Canon",
+    "source": "https://www.usa.canon.com/pro/cameras/eos-r-system"
+  },
+  {
+    "id": "canon-eos-r10",
+    "name": "Canon EOS R10",
+    "model": "EOS R10",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-r50",
+    "name": "Canon EOS R50",
+    "model": "EOS R50",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-r100",
+    "name": "Canon EOS R100",
+    "model": "EOS R100",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-ra",
+    "name": "Canon EOS Ra",
+    "model": "EOS Ra",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-t6",
+    "name": "Canon EOS Rebel T6 / 1300D",
+    "model": "EOS Rebel T6 / 1300D",
+    "brand": "Canon",
+    "source": "https://www.usa.canon.com/support/p/eos-rebel-t6"
+  },
+  {
+    "id": "canon-eos-rp",
+    "name": "Canon EOS RP",
+    "model": "EOS RP",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-1d-x",
+    "name": "Canon EOS-1D X",
+    "model": "EOS-1D X",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-1d-x-mark-ii",
+    "name": "Canon EOS-1D X Mark II",
+    "model": "EOS-1D X Mark II",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "canon-eos-1d-x-mark-iii",
+    "name": "Canon EOS-1D X Mark III",
+    "model": "EOS-1D X Mark III",
+    "brand": "Canon",
+    "source": "https://global.canon/en/c-museum/"
+  },
+  {
+    "id": "fujifilm-gfx-50r",
+    "name": "Fujifilm GFX 50R",
+    "model": "GFX 50R",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-gfx-50s",
+    "name": "Fujifilm GFX 50S",
+    "model": "GFX 50S",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-gfx-50s-ii",
+    "name": "Fujifilm GFX 50S II",
+    "model": "GFX 50S II",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-gfx-100",
+    "name": "Fujifilm GFX 100",
+    "model": "GFX 100",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-gfx-100-ii",
+    "name": "Fujifilm GFX 100 II",
+    "model": "GFX 100 II",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-gfx-100s",
+    "name": "Fujifilm GFX 100S",
+    "model": "GFX 100S",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-gfx-100s-ii",
+    "name": "Fujifilm GFX 100S II",
+    "model": "GFX 100S II",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-a1",
+    "name": "Fujifilm X-A1",
+    "model": "X-A1",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-a2",
+    "name": "Fujifilm X-A2",
+    "model": "X-A2",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-a3",
+    "name": "Fujifilm X-A3",
+    "model": "X-A3",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-a5",
+    "name": "Fujifilm X-A5",
+    "model": "X-A5",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-a7",
+    "name": "Fujifilm X-A7",
+    "model": "X-A7",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-e1",
+    "name": "Fujifilm X-E1",
+    "model": "X-E1",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-e2",
+    "name": "Fujifilm X-E2",
+    "model": "X-E2",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-e2s",
+    "name": "Fujifilm X-E2S",
+    "model": "X-E2S",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-e3",
+    "name": "Fujifilm X-E3",
+    "model": "X-E3",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-e4",
+    "name": "Fujifilm X-E4",
+    "model": "X-E4",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-h1",
+    "name": "Fujifilm X-H1",
+    "model": "X-H1",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-h2",
+    "name": "Fujifilm X-H2",
+    "model": "X-H2",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-h2s",
+    "name": "Fujifilm X-H2S",
+    "model": "X-H2S",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-pro1",
+    "name": "Fujifilm X-Pro1",
+    "model": "X-Pro1",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-pro2",
+    "name": "Fujifilm X-Pro2",
+    "model": "X-Pro2",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-pro3",
+    "name": "Fujifilm X-Pro3",
+    "model": "X-Pro3",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-s10",
+    "name": "Fujifilm X-S10",
+    "model": "X-S10",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-s20",
+    "name": "Fujifilm X-S20",
+    "model": "X-S20",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t1",
+    "name": "Fujifilm X-T1",
+    "model": "X-T1",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t2",
+    "name": "Fujifilm X-T2",
+    "model": "X-T2",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t3",
+    "name": "Fujifilm X-T3",
+    "model": "X-T3",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t4",
+    "name": "Fujifilm X-T4",
+    "model": "X-T4",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t5",
+    "name": "Fujifilm X-T5",
+    "model": "X-T5",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t10",
+    "name": "Fujifilm X-T10",
+    "model": "X-T10",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t20",
+    "name": "Fujifilm X-T20",
+    "model": "X-T20",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t30",
+    "name": "Fujifilm X-T30",
+    "model": "X-T30",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t30-ii",
+    "name": "Fujifilm X-T30 II",
+    "model": "X-T30 II",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t50",
+    "name": "Fujifilm X-T50",
+    "model": "X-T50",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t100",
+    "name": "Fujifilm X-T100",
+    "model": "X-T100",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "fujifilm-x-t200",
+    "name": "Fujifilm X-T200",
+    "model": "X-T200",
+    "brand": "Fujifilm",
+    "source": "https://www.fujifilm-x.com/en-us/products/cameras/"
+  },
+  {
+    "id": "nikon-d3",
+    "name": "Nikon D3",
+    "model": "D3",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d3s",
+    "name": "Nikon D3s",
+    "model": "D3s",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d3x",
+    "name": "Nikon D3X",
+    "model": "D3X",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d4",
+    "name": "Nikon D4",
+    "model": "D4",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d4s",
+    "name": "Nikon D4s",
+    "model": "D4s",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d5",
+    "name": "Nikon D5",
+    "model": "D5",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d6",
+    "name": "Nikon D6",
+    "model": "D6",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d40",
+    "name": "Nikon D40",
+    "model": "D40",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d40x",
+    "name": "Nikon D40X",
+    "model": "D40X",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d50",
+    "name": "Nikon D50",
+    "model": "D50",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d60",
+    "name": "Nikon D60",
+    "model": "D60",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d70",
+    "name": "Nikon D70",
+    "model": "D70",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d70s",
+    "name": "Nikon D70s",
+    "model": "D70s",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d80",
+    "name": "Nikon D80",
+    "model": "D80",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d90",
+    "name": "Nikon D90",
+    "model": "D90",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d100",
+    "name": "Nikon D100",
+    "model": "D100",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d200",
+    "name": "Nikon D200",
+    "model": "D200",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d300",
+    "name": "Nikon D300",
+    "model": "D300",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d300s",
+    "name": "Nikon D300s",
+    "model": "D300s",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d500",
+    "name": "Nikon D500",
+    "model": "D500",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d600",
+    "name": "Nikon D600",
+    "model": "D600",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d610",
+    "name": "Nikon D610",
+    "model": "D610",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d700",
+    "name": "Nikon D700",
+    "model": "D700",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d750",
+    "name": "Nikon D750",
+    "model": "D750",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d780",
+    "name": "Nikon D780",
+    "model": "D780",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d800",
+    "name": "Nikon D800",
+    "model": "D800",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d800e",
+    "name": "Nikon D800E",
+    "model": "D800E",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d810",
+    "name": "Nikon D810",
+    "model": "D810",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d810a",
+    "name": "Nikon D810A",
+    "model": "D810A",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d850",
+    "name": "Nikon D850",
+    "model": "D850",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d3000",
+    "name": "Nikon D3000",
+    "model": "D3000",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d3100",
+    "name": "Nikon D3100",
+    "model": "D3100",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d3200",
+    "name": "Nikon D3200",
+    "model": "D3200",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d3300",
+    "name": "Nikon D3300",
+    "model": "D3300",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d3400",
+    "name": "Nikon D3400",
+    "model": "D3400",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d3500",
+    "name": "Nikon D3500",
+    "model": "D3500",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d5000",
+    "name": "Nikon D5000",
+    "model": "D5000",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d5100",
+    "name": "Nikon D5100",
+    "model": "D5100",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d5200",
+    "name": "Nikon D5200",
+    "model": "D5200",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d5300",
+    "name": "Nikon D5300",
+    "model": "D5300",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d5500",
+    "name": "Nikon D5500",
+    "model": "D5500",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d5600",
+    "name": "Nikon D5600",
+    "model": "D5600",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d7000",
+    "name": "Nikon D7000",
+    "model": "D7000",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d7100",
+    "name": "Nikon D7100",
+    "model": "D7100",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d7200",
+    "name": "Nikon D7200",
+    "model": "D7200",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-d7500",
+    "name": "Nikon D7500",
+    "model": "D7500",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-df",
+    "name": "Nikon Df",
+    "model": "Df",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-z-fc",
+    "name": "Nikon Z fc",
+    "model": "Z fc",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-z5",
+    "name": "Nikon Z5",
+    "model": "Z5",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-z5ii",
+    "name": "Nikon Z5II",
+    "model": "Z5II",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/c/cameras/mirrorless-cameras/overview"
+  },
+  {
+    "id": "nikon-z6",
+    "name": "Nikon Z6",
+    "model": "Z6",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-z6ii",
+    "name": "Nikon Z6II",
+    "model": "Z6II",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-z6iii",
+    "name": "Nikon Z6III",
+    "model": "Z6III",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/c/cameras/mirrorless-cameras/overview"
+  },
+  {
+    "id": "nikon-z7",
+    "name": "Nikon Z7",
+    "model": "Z7",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-z7ii",
+    "name": "Nikon Z7II",
+    "model": "Z7II",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/c/cameras/mirrorless-cameras/overview"
+  },
+  {
+    "id": "nikon-z8",
+    "name": "Nikon Z8",
+    "model": "Z8",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/c/cameras/mirrorless-cameras/overview"
+  },
+  {
+    "id": "nikon-z9",
+    "name": "Nikon Z9",
+    "model": "Z9",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/c/cameras/mirrorless-cameras/overview"
+  },
+  {
+    "id": "nikon-z30",
+    "name": "Nikon Z30",
+    "model": "Z30",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-z50",
+    "name": "Nikon Z50",
+    "model": "Z50",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-z50ii",
+    "name": "Nikon Z50II",
+    "model": "Z50II",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/cameras/dslr-cameras"
+  },
+  {
+    "id": "nikon-zf",
+    "name": "Nikon Zf",
+    "model": "Zf",
+    "brand": "Nikon",
+    "source": "https://www.nikonusa.com/c/cameras/mirrorless-cameras/overview"
+  },
+  {
+    "id": "olympus-e-1",
+    "name": "Olympus E-1",
+    "model": "E-1",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-3",
+    "name": "Olympus E-3",
+    "model": "E-3",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-5",
+    "name": "Olympus E-5",
+    "model": "E-5",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-300",
+    "name": "Olympus E-300",
+    "model": "E-300",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-330",
+    "name": "Olympus E-330",
+    "model": "E-330",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-400",
+    "name": "Olympus E-400",
+    "model": "E-400",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-410",
+    "name": "Olympus E-410",
+    "model": "E-410",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-420",
+    "name": "Olympus E-420",
+    "model": "E-420",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-450",
+    "name": "Olympus E-450",
+    "model": "E-450",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-500",
+    "name": "Olympus E-500",
+    "model": "E-500",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-510",
+    "name": "Olympus E-510",
+    "model": "E-510",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-520",
+    "name": "Olympus E-520",
+    "model": "E-520",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-e-620",
+    "name": "Olympus E-620",
+    "model": "E-620",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-om-d-e-m1",
+    "name": "Olympus OM-D E-M1",
+    "model": "OM-D E-M1",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-om-d-e-m1-mark-ii",
+    "name": "Olympus OM-D E-M1 Mark II",
+    "model": "OM-D E-M1 Mark II",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-om-d-e-m1-mark-iii",
+    "name": "Olympus OM-D E-M1 Mark III",
+    "model": "OM-D E-M1 Mark III",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-om-d-e-m1x",
+    "name": "Olympus OM-D E-M1X",
+    "model": "OM-D E-M1X",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-om-d-e-m5",
+    "name": "Olympus OM-D E-M5",
+    "model": "OM-D E-M5",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-om-d-e-m5-mark-ii",
+    "name": "Olympus OM-D E-M5 Mark II",
+    "model": "OM-D E-M5 Mark II",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-om-d-e-m5-mark-iii",
+    "name": "Olympus OM-D E-M5 Mark III",
+    "model": "OM-D E-M5 Mark III",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-om-d-e-m10",
+    "name": "Olympus OM-D E-M10",
+    "model": "OM-D E-M10",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-om-d-e-m10-mark-ii",
+    "name": "Olympus OM-D E-M10 Mark II",
+    "model": "OM-D E-M10 Mark II",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-om-d-e-m10-mark-iii",
+    "name": "Olympus OM-D E-M10 Mark III",
+    "model": "OM-D E-M10 Mark III",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-om-d-e-m10-mark-iv",
+    "name": "Olympus OM-D E-M10 Mark IV",
+    "model": "OM-D E-M10 Mark IV",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-e-p1",
+    "name": "Olympus PEN E-P1",
+    "model": "PEN E-P1",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-e-p2",
+    "name": "Olympus PEN E-P2",
+    "model": "PEN E-P2",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-e-p3",
+    "name": "Olympus PEN E-P3",
+    "model": "PEN E-P3",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-e-p5",
+    "name": "Olympus PEN E-P5",
+    "model": "PEN E-P5",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-e-p7",
+    "name": "Olympus PEN E-P7",
+    "model": "PEN E-P7",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-e-pl5",
+    "name": "Olympus PEN E-PL5",
+    "model": "PEN E-PL5",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-e-pl6",
+    "name": "Olympus PEN E-PL6",
+    "model": "PEN E-PL6",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-e-pl7",
+    "name": "Olympus PEN E-PL7",
+    "model": "PEN E-PL7",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-e-pl8",
+    "name": "Olympus PEN E-PL8",
+    "model": "PEN E-PL8",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-e-pl9",
+    "name": "Olympus PEN E-PL9",
+    "model": "PEN E-PL9",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-e-pl10",
+    "name": "Olympus PEN E-PL10",
+    "model": "PEN E-PL10",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "olympus-pen-f",
+    "name": "Olympus PEN-F",
+    "model": "PEN-F",
+    "brand": "Olympus",
+    "source": "https://explore.omsystem.com/c/en/"
+  },
+  {
+    "id": "om-system-om-1",
+    "name": "OM SYSTEM OM-1",
+    "model": "OM-1",
+    "brand": "OM SYSTEM",
+    "source": "https://explore.omsystem.com/c/en/all-cameras"
+  },
+  {
+    "id": "om-system-om-1-mark-ii",
+    "name": "OM SYSTEM OM-1 Mark II",
+    "model": "OM-1 Mark II",
+    "brand": "OM SYSTEM",
+    "source": "https://explore.omsystem.com/c/en/all-cameras"
+  },
+  {
+    "id": "om-system-om-3",
+    "name": "OM SYSTEM OM-3",
+    "model": "OM-3",
+    "brand": "OM SYSTEM",
+    "source": "https://explore.omsystem.com/c/en/all-cameras"
+  },
+  {
+    "id": "om-system-om-5",
+    "name": "OM SYSTEM OM-5",
+    "model": "OM-5",
+    "brand": "OM SYSTEM",
+    "source": "https://explore.omsystem.com/c/en/all-cameras"
+  },
+  {
+    "id": "om-system-om-5-mark-ii",
+    "name": "OM SYSTEM OM-5 Mark II",
+    "model": "OM-5 Mark II",
+    "brand": "OM SYSTEM",
+    "source": "https://explore.omsystem.com/c/en/all-cameras"
+  },
+  {
+    "id": "panasonic-lumix-g1",
+    "name": "Panasonic LUMIX G1",
+    "model": "LUMIX G1",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-g2",
+    "name": "Panasonic LUMIX G2",
+    "model": "LUMIX G2",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-g3",
+    "name": "Panasonic LUMIX G3",
+    "model": "LUMIX G3",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-g5",
+    "name": "Panasonic LUMIX G5",
+    "model": "LUMIX G5",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-g6",
+    "name": "Panasonic LUMIX G6",
+    "model": "LUMIX G6",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-g7",
+    "name": "Panasonic LUMIX G7",
+    "model": "LUMIX G7",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-g9",
+    "name": "Panasonic LUMIX G9",
+    "model": "LUMIX G9",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-g9-ii",
+    "name": "Panasonic LUMIX G9 II",
+    "model": "LUMIX G9 II",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-g80-g85",
+    "name": "Panasonic LUMIX G80 / G85",
+    "model": "LUMIX G80 / G85",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-g90-g95",
+    "name": "Panasonic LUMIX G90 / G95",
+    "model": "LUMIX G90 / G95",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gh1",
+    "name": "Panasonic LUMIX GH1",
+    "model": "LUMIX GH1",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gh2",
+    "name": "Panasonic LUMIX GH2",
+    "model": "LUMIX GH2",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gh3",
+    "name": "Panasonic LUMIX GH3",
+    "model": "LUMIX GH3",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gh4",
+    "name": "Panasonic LUMIX GH4",
+    "model": "LUMIX GH4",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gh5",
+    "name": "Panasonic LUMIX GH5",
+    "model": "LUMIX GH5",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gh5-ii",
+    "name": "Panasonic LUMIX GH5 II",
+    "model": "LUMIX GH5 II",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gh5s",
+    "name": "Panasonic LUMIX GH5S",
+    "model": "LUMIX GH5S",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gh6",
+    "name": "Panasonic LUMIX GH6",
+    "model": "LUMIX GH6",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gh7",
+    "name": "Panasonic LUMIX GH7",
+    "model": "LUMIX GH7",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gx1",
+    "name": "Panasonic LUMIX GX1",
+    "model": "LUMIX GX1",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gx7",
+    "name": "Panasonic LUMIX GX7",
+    "model": "LUMIX GX7",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gx8",
+    "name": "Panasonic LUMIX GX8",
+    "model": "LUMIX GX8",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gx9",
+    "name": "Panasonic LUMIX GX9",
+    "model": "LUMIX GX9",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-gx80-gx85",
+    "name": "Panasonic LUMIX GX80 / GX85",
+    "model": "LUMIX GX80 / GX85",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-s1",
+    "name": "Panasonic LUMIX S1",
+    "model": "LUMIX S1",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-s1h",
+    "name": "Panasonic LUMIX S1H",
+    "model": "LUMIX S1H",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-s1r",
+    "name": "Panasonic LUMIX S1R",
+    "model": "LUMIX S1R",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-s5",
+    "name": "Panasonic LUMIX S5",
+    "model": "LUMIX S5",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-s5-ii",
+    "name": "Panasonic LUMIX S5 II",
+    "model": "LUMIX S5 II",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-s5-iix",
+    "name": "Panasonic LUMIX S5 IIX",
+    "model": "LUMIX S5 IIX",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "panasonic-lumix-s9",
+    "name": "Panasonic LUMIX S9",
+    "model": "LUMIX S9",
+    "brand": "Panasonic",
+    "source": "https://www.panasonic.com/nz/consumer/lumix-home.html"
+  },
+  {
+    "id": "pentax-ist-d",
+    "name": "Pentax *ist D",
+    "model": "*ist D",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-ist-dl",
+    "name": "Pentax *ist DL",
+    "model": "*ist DL",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-ist-ds",
+    "name": "Pentax *ist DS",
+    "model": "*ist DS",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-645d",
+    "name": "Pentax 645D",
+    "model": "645D",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-645z",
+    "name": "Pentax 645Z",
+    "model": "645Z",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-1",
+    "name": "Pentax K-1",
+    "model": "K-1",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-1-mark-ii",
+    "name": "Pentax K-1 Mark II",
+    "model": "K-1 Mark II",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-3",
+    "name": "Pentax K-3",
+    "model": "K-3",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-3-ii",
+    "name": "Pentax K-3 II",
+    "model": "K-3 II",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-3-mark-iii",
+    "name": "Pentax K-3 Mark III",
+    "model": "K-3 Mark III",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-5",
+    "name": "Pentax K-5",
+    "model": "K-5",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-5-ii",
+    "name": "Pentax K-5 II",
+    "model": "K-5 II",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-5-iis",
+    "name": "Pentax K-5 IIs",
+    "model": "K-5 IIs",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-7",
+    "name": "Pentax K-7",
+    "model": "K-7",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-30",
+    "name": "Pentax K-30",
+    "model": "K-30",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-50",
+    "name": "Pentax K-50",
+    "model": "K-50",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-70",
+    "name": "Pentax K-70",
+    "model": "K-70",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-m-k2000",
+    "name": "Pentax K-m / K2000",
+    "model": "K-m / K2000",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-r",
+    "name": "Pentax K-r",
+    "model": "K-r",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-s1",
+    "name": "Pentax K-S1",
+    "model": "K-S1",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-s2",
+    "name": "Pentax K-S2",
+    "model": "K-S2",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k-x",
+    "name": "Pentax K-x",
+    "model": "K-x",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k10d",
+    "name": "Pentax K10D",
+    "model": "K10D",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k20d",
+    "name": "Pentax K20D",
+    "model": "K20D",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k100d",
+    "name": "Pentax K100D",
+    "model": "K100D",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k100d-super",
+    "name": "Pentax K100D Super",
+    "model": "K100D Super",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k110d",
+    "name": "Pentax K110D",
+    "model": "K110D",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-k200d",
+    "name": "Pentax K200D",
+    "model": "K200D",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-kf",
+    "name": "Pentax KF",
+    "model": "KF",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "pentax-kp",
+    "name": "Pentax KP",
+    "model": "KP",
+    "brand": "Pentax",
+    "source": "https://www.ricoh-imaging.co.jp/japan/support/catalog/"
+  },
+  {
+    "id": "sony-alpha-1",
+    "name": "Sony Alpha 1",
+    "model": "Alpha 1",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-1-ii",
+    "name": "Sony Alpha 1 II",
+    "model": "Alpha 1 II",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7",
+    "name": "Sony Alpha 7",
+    "model": "Alpha 7",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7-ii",
+    "name": "Sony Alpha 7 II",
+    "model": "Alpha 7 II",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7-iii",
+    "name": "Sony Alpha 7 III",
+    "model": "Alpha 7 III",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7-iv",
+    "name": "Sony Alpha 7 IV",
+    "model": "Alpha 7 IV",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7c",
+    "name": "Sony Alpha 7C",
+    "model": "Alpha 7C",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7c-ii",
+    "name": "Sony Alpha 7C II",
+    "model": "Alpha 7C II",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7cr",
+    "name": "Sony Alpha 7CR",
+    "model": "Alpha 7CR",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7r",
+    "name": "Sony Alpha 7R",
+    "model": "Alpha 7R",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7r-ii",
+    "name": "Sony Alpha 7R II",
+    "model": "Alpha 7R II",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7r-iii",
+    "name": "Sony Alpha 7R III",
+    "model": "Alpha 7R III",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7r-iv",
+    "name": "Sony Alpha 7R IV",
+    "model": "Alpha 7R IV",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7r-v",
+    "name": "Sony Alpha 7R V",
+    "model": "Alpha 7R V",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7s",
+    "name": "Sony Alpha 7S",
+    "model": "Alpha 7S",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7s-ii",
+    "name": "Sony Alpha 7S II",
+    "model": "Alpha 7S II",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-7s-iii",
+    "name": "Sony Alpha 7S III",
+    "model": "Alpha 7S III",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-9",
+    "name": "Sony Alpha 9",
+    "model": "Alpha 9",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-9-ii",
+    "name": "Sony Alpha 9 II",
+    "model": "Alpha 9 II",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-9-iii",
+    "name": "Sony Alpha 9 III",
+    "model": "Alpha 9 III",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-55",
+    "name": "Sony Alpha 55",
+    "model": "Alpha 55",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-57",
+    "name": "Sony Alpha 57",
+    "model": "Alpha 57",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-58",
+    "name": "Sony Alpha 58",
+    "model": "Alpha 58",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-65",
+    "name": "Sony Alpha 65",
+    "model": "Alpha 65",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-68",
+    "name": "Sony Alpha 68",
+    "model": "Alpha 68",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-77",
+    "name": "Sony Alpha 77",
+    "model": "Alpha 77",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-77-ii",
+    "name": "Sony Alpha 77 II",
+    "model": "Alpha 77 II",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-99",
+    "name": "Sony Alpha 99",
+    "model": "Alpha 99",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-99-ii",
+    "name": "Sony Alpha 99 II",
+    "model": "Alpha 99 II",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-100",
+    "name": "Sony Alpha 100",
+    "model": "Alpha 100",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-200",
+    "name": "Sony Alpha 200",
+    "model": "Alpha 200",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-350",
+    "name": "Sony Alpha 350",
+    "model": "Alpha 350",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-550",
+    "name": "Sony Alpha 550",
+    "model": "Alpha 550",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-580",
+    "name": "Sony Alpha 580",
+    "model": "Alpha 580",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-700",
+    "name": "Sony Alpha 700",
+    "model": "Alpha 700",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-850",
+    "name": "Sony Alpha 850",
+    "model": "Alpha 850",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-900",
+    "name": "Sony Alpha 900",
+    "model": "Alpha 900",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-5000",
+    "name": "Sony Alpha 5000",
+    "model": "Alpha 5000",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-5100",
+    "name": "Sony Alpha 5100",
+    "model": "Alpha 5100",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-6000",
+    "name": "Sony Alpha 6000",
+    "model": "Alpha 6000",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-6100",
+    "name": "Sony Alpha 6100",
+    "model": "Alpha 6100",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-6300",
+    "name": "Sony Alpha 6300",
+    "model": "Alpha 6300",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-6400",
+    "name": "Sony Alpha 6400",
+    "model": "Alpha 6400",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-6500",
+    "name": "Sony Alpha 6500",
+    "model": "Alpha 6500",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-6600",
+    "name": "Sony Alpha 6600",
+    "model": "Alpha 6600",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-alpha-6700",
+    "name": "Sony Alpha 6700",
+    "model": "Alpha 6700",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-nex-3",
+    "name": "Sony NEX-3",
+    "model": "NEX-3",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-nex-5",
+    "name": "Sony NEX-5",
+    "model": "NEX-5",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-nex-5n",
+    "name": "Sony NEX-5N",
+    "model": "NEX-5N",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-nex-5r",
+    "name": "Sony NEX-5R",
+    "model": "NEX-5R",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-nex-5t",
+    "name": "Sony NEX-5T",
+    "model": "NEX-5T",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-nex-6",
+    "name": "Sony NEX-6",
+    "model": "NEX-6",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  },
+  {
+    "id": "sony-nex-7",
+    "name": "Sony NEX-7",
+    "model": "NEX-7",
+    "brand": "Sony",
+    "source": "https://www.sony.com/electronics/support/digital-cameras-interchangeable-lens-cameras"
+  }
+]

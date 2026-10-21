@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-21",
+  "basis": "Manually researched photographer descriptions on public Flickr photo pages, not API imports or independently verified EXIF. Only factual settings, attribution and page links are stored; no images are copied.",
+  "coverage": "Initial references for three catalog models; not coverage of all 320 cameras.",
+  "records": [
+    {
+      "cameraId": "canon-600d",
+      "reportedCamera": "Canon EOS 600D (astro-modified)",
+      "sourceUrl": "https://www.flickr.com/photos/mcrowle/47993510296",
+      "title": "The Milky Way core",
+      "photographer": "Mike Crowle",
+      "captureDate": "2019-05-30",
+      "settings": {"focalLengthMm": 14, "fNumber": 4, "exposureSeconds": 120, "iso": 6400},
+      "context": {"target": "Milky Way", "lens": "Samyang 14mm f/2.8", "mount": "tracked", "tracker": "Vixen Polarie", "frames": 13, "stacked": true, "modified": true, "filter": "Deep-sky filter; model not specified", "skyCondition": null, "weather": null},
+      "evidenceType": "photographer-description",
+      "exifChecked": false,
+      "license": "All rights reserved",
+      "reviewRequired": true,
+      "outcome": "unknown"
+    },
+    {
+      "cameraId": "nikon-d750",
+      "reportedCamera": "Nikon D750",
+      "sourceUrl": "https://www.flickr.com/photos/d_mcgarvey/49830398088/",
+      "title": "Pre-Dawn April Milky Way",
+      "photographer": "David McGarvey",
+      "captureDate": "2020-04-19",
+      "settings": {"focalLengthMm": 35, "fNumber": 1.4, "exposureSeconds": 15, "iso": 1600},
+      "context": {"target": "Milky Way", "lens": "Sigma Art 35mm", "mount": "untracked", "tracker": null, "frames": 1, "stacked": false, "modified": null, "filter": null, "skyCondition": null, "weather": null},
+      "notes": "Photographer reports a power outage; no measured sky brightness provided.",
+      "evidenceType": "photographer-description",
+      "exifChecked": false,
+      "license": "All rights reserved",
+      "reviewRequired": true,
+      "outcome": "unknown"
+    },
+    {
+      "cameraId": "sony-alpha-7",
+      "reportedCamera": "Sony A7",
+      "sourceUrl": "https://www.flickr.com/photos/131492366%40N07/24707059673",
+      "title": "Midnight Milky Way",
+      "photographer": "Jeremy Herbert",
+      "captureDate": "2015-10-04",
+      "settings": {"focalLengthMm": 14, "fNumber": 2.8, "exposureSeconds": 25, "iso": 4000},
+      "context": {"target": "Milky Way", "lens": "Samyang 14mm f/2.8", "mount": null, "tracker": null, "frames": null, "stacked": null, "modified": null, "filter": null, "skyCondition": null, "weather": null},
+      "notes": "Description and settings available through the indexed Flickr page; direct page retrieval unavailable during this check. Sony A7 is the Alpha 7 catalog model.",
+      "evidenceType": "indexed-photographer-description",
+      "exifChecked": false,
+      "license": null,
+      "reviewRequired": true,
+      "outcome": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "canon-eos-6d-mark-ii",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2018/08/dslr866_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 35.9,
+      "sensorHeightMm": 24.0,
+      "effectiveMegapixels": 26.2,
+      "widthPixels": 6240,
+      "heightPixels": 4160,
+      "lensMount": "Canon EF mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 35.9 x 24.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 35.9 x 24.0 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels: Approx. 26.2 megapixels"
+      },
+      "widthPixels": {
+        "page": 2,
+        "text": "6240 x 4160"
+      },
+      "heightPixels": {
+        "page": 2,
+        "text": "6240 x 4160"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon EF mount"
+      }
+    },
+    "documentPages": 13
+  },
+  {
+    "id": "canon-eos-90d",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2020/10/dslr887_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.8,
+      "widthPixels": 6960,
+      "heightPixels": 4640,
+      "lensMount": "Canon EF mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 22.3×14.8 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 22.3×14.8 mm"
+      },
+      "widthPixels": {
+        "page": 2,
+        "text": "6960×4640"
+      },
+      "heightPixels": {
+        "page": 2,
+        "text": "6960×4640"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon EF mount"
+      }
+    },
+    "documentPages": 14
+  },
+  {
+    "id": "canon-eos-200d-rebel-sl2",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2018/08/dslr865_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.9,
+      "effectiveMegapixels": 24.2,
+      "widthPixels": 6000,
+      "heightPixels": 4000,
+      "lensMount": "Canon EF mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 22.3 x 14.9 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 22.3 x 14.9 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels: Approx. 24.2 megapixels"
+      },
+      "widthPixels": {
+        "page": 2,
+        "text": "6000 x 4000"
+      },
+      "heightPixels": {
+        "page": 2,
+        "text": "6000 x 4000"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon EF mount"
+      }
+    },
+    "documentPages": 11
+  },
+  {
+    "id": "canon-eos-250d-rebel-sl3",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2020/04/dslr883_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.9,
+      "effectiveMegapixels": 24.1,
+      "widthPixels": 6000,
+      "heightPixels": 4000,
+      "lensMount": "Canon EF mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 22.3 x 14.9 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 22.3 x 14.9 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels: Approx. 24.1 megapixels"
+      },
+      "widthPixels": {
+        "page": 2,
+        "text": "6000 x 4000"
+      },
+      "heightPixels": {
+        "page": 2,
+        "text": "6000 x 4000"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon EF mount"
+      }
+    },
+    "documentPages": 14
+  },
+  {
+    "id": "canon-eos-850d-rebel-t8i",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2021/02/dslr892_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.9,
+      "effectiveMegapixels": 24.1,
+      "lensMount": "Canon EF mount",
+      "widthPixels": 6000,
+      "heightPixels": 4000
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor Screen size Approx. 22.3 × 14.9 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor Screen size Approx. 22.3 × 14.9 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels* Approx. 24.1 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon EF mount"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "6000 × 4000"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "6000 × 4000"
+      }
+    },
+    "documentPages": 13
+  },
+  {
+    "id": "canon-eos-2000d-rebel-t7",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2019/03/dslr873_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.9,
+      "effectiveMegapixels": 24.1,
+      "widthPixels": 6000,
+      "heightPixels": 4000,
+      "lensMount": "Canon EF mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 22.3 x 14.9 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 22.3 x 14.9 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels: Approx. 24.1 megapixels"
+      },
+      "widthPixels": {
+        "page": 2,
+        "text": "6000 x 4000"
+      },
+      "heightPixels": {
+        "page": 2,
+        "text": "6000 x 4000"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon EF mount"
+      }
+    },
+    "documentPages": 7
+  },
+  {
+    "id": "canon-eos-m6-mark-ii",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2020/10/dslr886_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.8,
+      "effectiveMegapixels": 32.5,
+      "widthPixels": 6960,
+      "heightPixels": 4640,
+      "lensMount": "Canon EF-M mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 22.3×14.8 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 22.3×14.8 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels: Approx. 32.5 megapixels"
+      },
+      "widthPixels": {
+        "page": 2,
+        "text": "6960×4640"
+      },
+      "heightPixels": {
+        "page": 2,
+        "text": "6960×4640"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon EF-M mount"
+      }
+    },
+    "documentPages": 14
+  },
+  {
+    "id": "canon-eos-m50",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2019/03/dslr874_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.9
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image Sensor Image size Shooting screen size (Recording image size) .......................... Approx. 22.3 x 14.9 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image Sensor Image size Shooting screen size (Recording image size) .......................... Approx. 22.3 x 14.9 mm"
+      }
+    },
+    "documentPages": 8
+  },
+  {
+    "id": "canon-eos-m50-mark-ii",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2021/10/dslr897_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.9,
+      "effectiveMegapixels": 24.1,
+      "lensMount": "Canon EF-M",
+      "widthPixels": 6000,
+      "heightPixels": 4000
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor (Supports Dual Pixel CMOS AF) Screen size Approx. 22.3 × 14.9 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor (Supports Dual Pixel CMOS AF) Screen size Approx. 22.3 × 14.9 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels*1 Approx. 24.1 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon EF-M"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "6000 × 4000"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "6000 × 4000"
+      }
+    },
+    "documentPages": 17
+  },
+  {
+    "id": "canon-eos-r",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2019/09/dslr877_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 36.0,
+      "sensorHeightMm": 24.0,
+      "widthPixels": 6720,
+      "heightPixels": 4480,
+      "lensMount": "Canon RF mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor size : Approx. 36.0x24.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor size : Approx. 36.0x24.0 mm"
+      },
+      "widthPixels": {
+        "page": 2,
+        "text": "6720x4480"
+      },
+      "heightPixels": {
+        "page": 2,
+        "text": "6720x4480"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      }
+    },
+    "documentPages": 14
+  },
+  {
+    "id": "canon-eos-r3",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2022/09/dslr899_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 36.0,
+      "sensorHeightMm": 24.0,
+      "effectiveMegapixels": 24.1,
+      "lensMount": "Canon RF mount",
+      "widthPixels": 6000,
+      "heightPixels": 4000
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Screen size Approx. 36.0 × 24.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Screen size Approx. 36.0 × 24.0 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels*1*2 Max. approx. 24.1 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "6000 × 4000"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "6000 × 4000"
+      }
+    },
+    "documentPages": 26
+  },
+  {
+    "id": "canon-eos-r5",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2021/07/dslr894_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 36.0,
+      "sensorHeightMm": 24.0,
+      "effectiveMegapixels": 45.0,
+      "lensMount": "Canon RF mount",
+      "widthPixels": 8192,
+      "heightPixels": 5464
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor Screen size Approx. 36.0×24.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor Screen size Approx. 36.0×24.0 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels*1*2 Max. approx. 45.0 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "8192×5464"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "8192×5464"
+      }
+    },
+    "documentPages": 21
+  },
+  {
+    "id": "canon-eos-r5-mark-ii",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2025/12/dslr910_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "widthPixels": 1920,
+      "heightPixels": 1080
+    },
+    "evidence": {
+      "widthPixels": {
+        "page": 44,
+        "text": "1920×1080"
+      },
+      "heightPixels": {
+        "page": 44,
+        "text": "1920×1080"
+      }
+    },
+    "documentPages": 51
+  },
+  {
+    "id": "canon-eos-r6",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2021/10/dslr895_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 35.9,
+      "sensorHeightMm": 23.9,
+      "effectiveMegapixels": 20.1,
+      "lensMount": "Canon RF mount",
+      "widthPixels": 5472,
+      "heightPixels": 3648
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor Screen size Approx. 35.9×23.9 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor Screen size Approx. 35.9×23.9 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels*1*2 Max. approx. 20.1 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "5472×3648"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "5472×3648"
+      }
+    },
+    "documentPages": 18
+  },
+  {
+    "id": "canon-eos-r6-mark-ii",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2023/12/dslr905-en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 36.0,
+      "sensorHeightMm": 24.0,
+      "effectiveMegapixels": 24.2,
+      "lensMount": "Canon RF mount",
+      "widthPixels": 6000,
+      "heightPixels": 4000
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Screen size Approx. 36.0×24.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Screen size Approx. 36.0×24.0 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels*1*2 Max. approx. 24.2 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "6000×4000"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "6000×4000"
+      }
+    },
+    "documentPages": 24
+  },
+  {
+    "id": "canon-eos-r7",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2023/06/dslr901_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.8,
+      "effectiveMegapixels": 32.5,
+      "lensMount": "Canon RF mount",
+      "widthPixels": 6960,
+      "heightPixels": 4640
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor Effective pixels*1*2 Max. approx. 32.5 megapixels Total pixels*1 Approx. 34.4 megapixels Screen size Approx. 22.3 × 14.8 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor Effective pixels*1*2 Max. approx. 32.5 megapixels Total pixels*1 Approx. 34.4 megapixels Screen size Approx. 22.3 × 14.8 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels*1*2 Max. approx. 32.5 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "6960 × 4640"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "6960 × 4640"
+      }
+    },
+    "documentPages": 22
+  },
+  {
+    "id": "canon-eos-r8",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2024/06/dslr907-en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 36.0,
+      "sensorHeightMm": 24.0,
+      "effectiveMegapixels": 24.2,
+      "lensMount": "Canon RF mount",
+      "widthPixels": 6000,
+      "heightPixels": 4000
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Screen size Approx. 36.0×24.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Screen size Approx. 36.0×24.0 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels*1*2 Max. approx. 24.2 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "6000×4000"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "6000×4000"
+      }
+    },
+    "documentPages": 19
+  },
+  {
+    "id": "canon-eos-r10",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2023/09/dslr902_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.9,
+      "effectiveMegapixels": 24.2,
+      "lensMount": "Canon RF mount",
+      "widthPixels": 6000,
+      "heightPixels": 4000
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor Effective pixels*1*2 Max. approx. 24.2 megapixels Total pixels*1 Approx. 25.5 megapixels Screen size Approx. 22.3 × 14.9 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor Type: CMOS sensor Effective pixels*1*2 Max. approx. 24.2 megapixels Total pixels*1 Approx. 25.5 megapixels Screen size Approx. 22.3 × 14.9 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels*1*2 Max. approx. 24.2 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "6000 × 4000"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "6000 × 4000"
+      }
+    },
+    "documentPages": 23
+  },
+  {
+    "id": "canon-eos-r50",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2024/06/dslr906-en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.9,
+      "effectiveMegapixels": 24.2,
+      "lensMount": "Canon RF mount",
+      "widthPixels": 6000,
+      "heightPixels": 4000
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor Type: APS-C CMOS sensor Screen size Approx. 22.3 × 14.9 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor Type: APS-C CMOS sensor Screen size Approx. 22.3 × 14.9 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels*1*2 Max. approx. 24.2 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "6000×4000"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "6000×4000"
+      }
+    },
+    "documentPages": 21
+  },
+  {
+    "id": "canon-eos-r100",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2024/12/dslr908-en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 22.3,
+      "sensorHeightMm": 14.9,
+      "effectiveMegapixels": 24.1,
+      "lensMount": "Canon RF mount",
+      "widthPixels": 6000,
+      "heightPixels": 4000
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Screen size Approx. 22.3×14.9 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Screen size Approx. 22.3×14.9 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels*1*2 Max. approx. 24.1 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "6000×4000"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "6000×4000"
+      }
+    },
+    "documentPages": 21
+  },
+  {
+    "id": "canon-eos-ra",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2019/09/dslr877_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 36.0,
+      "sensorHeightMm": 24.0,
+      "widthPixels": 6720,
+      "heightPixels": 4480,
+      "lensMount": "Canon RF mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor size : Approx. 36.0x24.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor size : Approx. 36.0x24.0 mm"
+      },
+      "widthPixels": {
+        "page": 2,
+        "text": "6720x4480"
+      },
+      "heightPixels": {
+        "page": 2,
+        "text": "6720x4480"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      }
+    },
+    "documentPages": 14
+  },
+  {
+    "id": "canon-eos-ra",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2021/02/dslr890_all.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 36.0,
+      "sensorHeightMm": 24.0,
+      "widthPixels": 6720,
+      "heightPixels": 4480,
+      "lensMount": "Canon RF mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor size : Approx. 36.0x24.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor size : Approx. 36.0x24.0 mm"
+      },
+      "widthPixels": {
+        "page": 2,
+        "text": "6720x4480"
+      },
+      "heightPixels": {
+        "page": 2,
+        "text": "6720x4480"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      }
+    },
+    "documentPages": 14
+  },
+  {
+    "id": "canon-eos-rp",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2020/03/dslr880_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 35.9,
+      "sensorHeightMm": 24.0,
+      "effectiveMegapixels": 26.2,
+      "widthPixels": 6240,
+      "heightPixels": 4160,
+      "lensMount": "Canon RF mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 35.9×24.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor size: Approx. 35.9×24.0 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels: Up to approx. 26.2 megapixels"
+      },
+      "widthPixels": {
+        "page": 2,
+        "text": "6240×4160"
+      },
+      "heightPixels": {
+        "page": 2,
+        "text": "6240×4160"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount: Canon RF mount"
+      }
+    },
+    "documentPages": 13
+  },
+  {
+    "id": "canon-eos-1d-x-mark-iii",
+    "source": "https://global.canon/ja/c-museum/wp-content/uploads/2021/02/dslr891_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 35.9,
+      "sensorHeightMm": 23.9,
+      "effectiveMegapixels": 20.1,
+      "lensMount": "Canon EF mount",
+      "widthPixels": 5472,
+      "heightPixels": 3648
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 2,
+        "text": "Image sensor size Approx. 35.9×23.9 mm"
+      },
+      "sensorHeightMm": {
+        "page": 2,
+        "text": "Image sensor size Approx. 35.9×23.9 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 2,
+        "text": "Effective pixels Approx. 20.1 megapixels"
+      },
+      "lensMount": {
+        "page": 2,
+        "text": "Lens mount Canon EF mount"
+      },
+      "widthPixels": {
+        "page": 3,
+        "text": "5472×3648"
+      },
+      "heightPixels": {
+        "page": 3,
+        "text": "5472×3648"
+      }
+    },
+    "documentPages": 16
+  },
+  {
+    "id": "fujifilm-x-a1",
+    "source": "https://dl.fujifilm-x.com/support/manual/x/fujifilm_xa1_manual_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 23.6,
+      "sensorHeightMm": 15.6,
+      "lensMount": "Lens mount FUJIFILM X mountFUJIFILM X mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 139,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "sensorHeightMm": {
+        "page": 139,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "lensMount": {
+        "page": 139,
+        "text": "Lens mountLens mount FUJIFILM X mountFUJIFILM X mount"
+      }
+    },
+    "documentPages": 148
+  },
+  {
+    "id": "fujifilm-x-a2",
+    "source": "https://dl.fujifilm-x.com/support/manual/x/fujifilm_xa2_manual_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 23.6,
+      "sensorHeightMm": 15.6,
+      "lensMount": "Lens mount FUJIFILM X mountFUJIFILM X mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 143,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "sensorHeightMm": {
+        "page": 143,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "lensMount": {
+        "page": 143,
+        "text": "Lens mountLens mount FUJIFILM X mountFUJIFILM X mount"
+      }
+    },
+    "documentPages": 152
+  },
+  {
+    "id": "fujifilm-x-e1",
+    "source": "https://dl.fujifilm-x.com/support/manual/x/fujifilm_xe1_manual_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 23.6,
+      "sensorHeightMm": 15.6,
+      "lensMount": "Lens mount FUJIFILM X mountFUJIFILM X mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 128,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "sensorHeightMm": {
+        "page": 128,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "lensMount": {
+        "page": 128,
+        "text": "Lens mountLens mount FUJIFILM X mountFUJIFILM X mount"
+      }
+    },
+    "documentPages": 136
+  },
+  {
+    "id": "fujifilm-x-e2",
+    "source": "https://dl.fujifilm-x.com/support/manual/x/fujifilm_xe2_manual_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 23.6,
+      "sensorHeightMm": 15.6,
+      "lensMount": "Lens mount FUJIFILM X mountFUJIFILM X mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 158,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "sensorHeightMm": {
+        "page": 158,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "lensMount": {
+        "page": 158,
+        "text": "Lens mountLens mount FUJIFILM X mountFUJIFILM X mount"
+      }
+    },
+    "documentPages": 172
+  },
+  {
+    "id": "fujifilm-x-pro1",
+    "source": "https://dl.fujifilm-x.com/support/manual/x/fujifilm_xpro1_manual_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 23.6,
+      "sensorHeightMm": 15.6,
+      "lensMount": "Lens mount FUJIFILM X mountFUJIFILM X mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 127,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "sensorHeightMm": {
+        "page": 127,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "lensMount": {
+        "page": 127,
+        "text": "Lens mountLens mount FUJIFILM X mountFUJIFILM X mount"
+      }
+    },
+    "documentPages": 136
+  },
+  {
+    "id": "fujifilm-x-t1",
+    "source": "https://dl.fujifilm-x.com/support/manual/x/fujifilm_xt1_manual_en.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 23.6,
+      "sensorHeightMm": 15.6,
+      "lensMount": "Lens mount FUJIFILM X mountFUJIFILM X mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 142,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "sensorHeightMm": {
+        "page": 142,
+        "text": "Image sensorImage sensor 23.6 mm × 15.6 mm"
+      },
+      "lensMount": {
+        "page": 142,
+        "text": "Lens mountLens mount FUJIFILM X mountFUJIFILM X mount"
+      }
+    },
+    "documentPages": 152
+  },
+  {
+    "id": "olympus-e-1",
+    "source": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/E-1_Reference_Manual_EN.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 17.3,
+      "sensorHeightMm": 13.0,
+      "effectiveMegapixels": 5.0,
+      "lensMount": "Four Thirds Mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 172,
+        "text": "Screen size : 17.3 mm (H) x 13.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 172,
+        "text": "Screen size : 17.3 mm (H) x 13.0 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 172,
+        "text": "No. of effective pixels : Approx. 5,000,000 pixels"
+      },
+      "lensMount": {
+        "page": 172,
+        "text": "Lens mount : Four Thirds Mount"
+      }
+    },
+    "documentPages": 182
+  },
+  {
+    "id": "olympus-e-3",
+    "source": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/E-3_Instruction_Manual_EN.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 17.3,
+      "sensorHeightMm": 13.0,
+      "effectiveMegapixels": 10.1,
+      "lensMount": "Four Thirds mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 142,
+        "text": "Screen size : 17.3 mm (H) × 13.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 142,
+        "text": "Screen size : 17.3 mm (H) × 13.0 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 142,
+        "text": "No. of effective pixels : Approx. 10,100,000 pixels"
+      },
+      "lensMount": {
+        "page": 142,
+        "text": "Lens mount : Four Thirds mount"
+      }
+    },
+    "documentPages": 156
+  },
+  {
+    "id": "olympus-e-410",
+    "source": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/EVOLT_E-410_Instruction_Manual_EN.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 17.3,
+      "sensorHeightMm": 13.0,
+      "effectiveMegapixels": 10.0,
+      "lensMount": "Four Thirds mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 118,
+        "text": "Screen size : 17.3 mm (H) × 13.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 118,
+        "text": "Screen size : 17.3 mm (H) × 13.0 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 118,
+        "text": "No. of effective pixels : Approx. 10,000,000 pixels"
+      },
+      "lensMount": {
+        "page": 118,
+        "text": "Lens mount : Four Thirds mount"
+      }
+    },
+    "documentPages": 132
+  },
+  {
+    "id": "olympus-e-510",
+    "source": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/E-510_Instruction_Manual_EN_0.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 17.3,
+      "sensorHeightMm": 13.0,
+      "effectiveMegapixels": 10.0,
+      "lensMount": "Four Thirds mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 125,
+        "text": "Screen size : 17.3 mm (H) × 13.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 125,
+        "text": "Screen size : 17.3 mm (H) × 13.0 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 125,
+        "text": "No. of effective pixels : Approx. 10,000,000 pixels"
+      },
+      "lensMount": {
+        "page": 125,
+        "text": "Lens mount : Four Thirds mount"
+      }
+    },
+    "documentPages": 140
+  },
+  {
+    "id": "olympus-pen-e-p2",
+    "source": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/E-P2_Instruction_Manual_EN.pdf",
+    "checkedOn": "2026-10-17",
+    "values": {
+      "sensorWidthMm": 17.3,
+      "sensorHeightMm": 13.0,
+      "effectiveMegapixels": 12.3,
+      "lensMount": "Micro Four Thirds mount"
+    },
+    "evidence": {
+      "sensorWidthMm": {
+        "page": 144,
+        "text": "Screen size : 17.3 mm (H) × 13.0 mm"
+      },
+      "sensorHeightMm": {
+        "page": 144,
+        "text": "Screen size : 17.3 mm (H) × 13.0 mm"
+      },
+      "effectiveMegapixels": {
+        "page": 144,
+        "text": "No. of effective pixels : Approx. 12,300,000 pixels"
+      },
+      "lensMount": {
+        "page": 144,
+        "text": "Lens mount : Micro Four Thirds mount"
+      }
+    },
+    "documentPages": 164
+  }
+]

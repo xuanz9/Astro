@@ -1,0 +1,15 @@
+{
+  "cameraId": "canon-600d",
+  "target": "M31",
+  "focalLengthMm": 135,
+  "fNumber": 2.8,
+  "mount": "guided",
+  "modified": false,
+  "filter": "none",
+  "skyCondition": "user-estimated Bortle 4, moon below horizon",
+  "exposureSeconds": 60,
+  "iso": 800,
+  "frames": 30,
+  "outcome": { "result": "good", "usableFrames": 27 },
+  "notes": "SYNTHETIC EXAMPLE — replace with actual capture details before saving."
+}

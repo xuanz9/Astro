@@ -1,0 +1,18 @@
+{
+  "year": 2025,
+  "author": "David Lorenz",
+  "source": "https://djlorenz.github.io/astronomy/lp/",
+  "map": "https://djlorenz.github.io/astronomy/lp2025/world2025_low3.png",
+  "legend": "https://djlorenz.github.io/astronomy/lp/colors.html",
+  "retrievedOn": "2026-10-19",
+  "originalSha256": "eb6a5067bc701055a12b4193ff104f790ebdcb05f9ac7a9fefc174f53fdc5b4e",
+  "width": 14400,
+  "height": 5600,
+  "north": 75,
+  "south": -65,
+  "west": -180,
+  "east": 180,
+  "resolutionDegrees": 0.025,
+  "encoding": "LP25 magic; uint32 LE width,height; height+1 uint32 LE row payload offsets; rows of uint16 LE run length + uint8 original palette index",
+  "note": "Lossless encoding of the author's medium-resolution map. Map zones are modeled artificial zenith brightness, not Bortle classes. Category labels are app heuristics."
+}
